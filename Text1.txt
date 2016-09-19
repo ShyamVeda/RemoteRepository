@@ -1,2 +1,5 @@
 This is my first text document using Git
 Adding a line to the first file in branch
+Adding new line to the first file of git
+Modified third line in the git repo
+
